@@ -13,7 +13,7 @@ Skills Showcased:
 -   Feature Engineering
 -   Data Analysis
 
-[View more projects like this!](https://cian-murray-doyle.github.io/)
+[View more projects like this!](https://jeff-bow.github.io/)
 
 ## Libraries Overview
 
